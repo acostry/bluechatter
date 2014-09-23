@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 applications:
-- name: bluechatter
+- name: blue-chatter
   memory: 128M
   command: node app.js
   services:
